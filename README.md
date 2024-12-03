@@ -30,7 +30,7 @@ this code to any Arduino MEga and TFT Display.
 
 ## Video description
 
-TODO
+https://www.youtube.com/watch?v=3CzaQVlBt2g 
 
 ## Credits
 
