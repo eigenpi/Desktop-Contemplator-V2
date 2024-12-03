@@ -23,7 +23,9 @@ this code to any Arduino MEga and TFT Display.
 ## Software
 
 --Arduiono IDE
+
 --Libraries needed:
+
 (1) UTFT Library: http://www.rinkydinkelectronics.com/library.php?id=51#google_vignette
 
 ## Video description
@@ -35,4 +37,5 @@ TODO
 This code is an adaptation of the project "Desktop Contemplator for Nuts 
 and Volts", which was developed by Craig A. Lindley for SainSmart 3.2" 
 TFT LCD Display. MOre details can be found here:
+
 https://www.nutsvolts.com/magazine/article/december2012_Lindley
