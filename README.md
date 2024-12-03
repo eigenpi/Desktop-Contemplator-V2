@@ -39,3 +39,23 @@ and Volts", which was developed by Craig A. Lindley for SainSmart 3.2"
 TFT LCD Display. MOre details can be found here:
 
 https://www.nutsvolts.com/magazine/article/december2012_Lindley
+
+## More Photos
+
+![photo2](images/desk_contemplator2.jpg)
+
+![photo3](images/desk_contemplator3.jpg)
+
+![photo4](images/desk_contemplator4.jpg)
+
+![photo5](images/desk_contemplator5.jpg)
+
+![photo6](images/desk_contemplator6.jpg)
+
+![photo7](images/desk_contemplator7.jpg)
+
+![photo8](images/desk_contemplator8.jpg)
+
+![photo9](images/desk_contemplator9.jpg)
+
+![photo10](images/desk_contemplator10.jpg)
