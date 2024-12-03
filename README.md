@@ -12,7 +12,9 @@ render for your enjoyment: 1) fractals, 2) plasmas, or 3) cool geometry.
 ## Hardware
 
 If you wanted to replicate this project, these are the main components.
+
 --Mega 2560 R3 + Adaptor Shield + 3.2 TFT LCD Touch Panel
+
 https://www.sainsmart.com/products/mega2560-r3-adaptor-shield-3-2-tft-lcd-touch-panel
 
 If you cannot find the exact HW, you should be able to portion 
